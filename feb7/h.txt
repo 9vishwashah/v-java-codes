@@ -1,0 +1,4 @@
+this is program to perform file writing
+I am studying in AI & ML 3rd Sem Diploma
+
+ vishwa
